@@ -2,7 +2,7 @@
 
 This application shows bug with BottomNavigationBar on physical iOS devices when content of one tab is Google map from [this plugin](https://pub.dartlang.org/packages/google_maps_flutter)
 
-![](example.mp4)
+![](example.gif)
 
 ## How to run
 
